@@ -11,7 +11,7 @@
 	<body>
     	<h1>The African Swallow</h1>
     	<h2><sub>By Davis Conway</sub></h2>
-    		<p><img src="swallowsinging.jpg" alt="swallow" "width="304" height="228"></p>
+    		<p><img src="http://justfunfacts.com/wp-content/uploads/2017/04/swallow-singing.jpg" alt="swallow" "width="304" height="228"></p>
 			<form style="display: inline" action="https://www.hbw.com/ibc/species/57759/gallery" method="get">
 				<p><button>Photos of African Swallow</button></p>
   			</form>
